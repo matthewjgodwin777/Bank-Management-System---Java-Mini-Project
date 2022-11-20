@@ -1,1 +1,3 @@
-# Bank-Management-System---Java-Mini-Project
+# Bank-Management-System-Java
+
+A simple Bank management System using 'Java' as my Undergrad Project.
